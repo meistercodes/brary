@@ -9,4 +9,3 @@ let otherNumber = 2;
 ```
 
 Use camelCase when naming variables
-test
