@@ -1,8 +1,11 @@
 # JavaScript Basics
 
-Test Code Block
+Variables
 
 ```js
 const number = 1;
-// Test Comment
+let otherNumber = 2;
+// NEVER USE VAR
 ```
+
+Use camelCase when naming variables
