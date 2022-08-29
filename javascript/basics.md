@@ -8,4 +8,4 @@ let otherNumber = 2;
 // NEVER USE VAR
 ```
 
-Use camelCase when naming variables
+Use camelCase when naming variables.
