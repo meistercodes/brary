@@ -17,3 +17,5 @@ Container items centered horizontally and vertically (be sure a min height is se
   justify-content: center;
 }
 ```
+
+[Flexbox Cheatsheet](https://flexbox.malven.co/)
