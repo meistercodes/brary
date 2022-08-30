@@ -5,6 +5,10 @@ Tests a condition and returns one value if true or the other if false
 Example:
 
 ```js
-let number = 10;
-number > 25 ? 'Number is greater than 25!' : 'Number is less than 25!';
+// Checking eligibility to vote
+let age = 15;
+let result =
+  age >= 18 ? 'You are old enough to vote!' : 'You are not old enough to vote!';
+
+console.log(result); // Will Log: You are not old enough to vote!
 ```
