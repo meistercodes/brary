@@ -1,4 +1,4 @@
-## Brary
+## Brary (Book of Knowledge)
 
 Collection of knowledge in small chunks for reference.
 
