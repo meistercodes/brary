@@ -55,3 +55,30 @@ div {
 ```
 
 ## absolute
+
+Element is positioned relative to nearest positioned ancestor (instead of positioned relative to the viewport, like fixed).
+
+If an absolute positioned element has no positioned ancestors, it uses the document body, and moves along with page scrolling.
+
+**Note:** Absolute positioned elements are removed from the normal flow, and can overlap elements.
+
+Example:
+
+```css
+/* Parent Element */
+div.relative {
+  position: relative;
+  width: 400px;
+  height: 200px;
+  border: 2px solid red;
+}
+/* Child Element */
+div.absolute {
+  position: absolute;
+  top: 100px;
+  right: 0;
+  width: 200px;
+  height: 100px;
+  border: 2px solid red;
+}
+```
