@@ -82,3 +82,19 @@ div.absolute {
   border: 2px solid red;
 }
 ```
+
+## sticky
+
+Positioned based on a users scroll position.
+
+Example:
+
+```css
+/* Positions an element at the top (top: 0) when its scroll position is reached */
+div.sticky {
+  position: sticky;
+  top: 0;
+  background-color: green;
+  border: 2px solid red;
+}
+```
