@@ -25,3 +25,33 @@ div {
 ```
 
 ## relative
+
+Element is positioned relative to its normal position.
+
+Setting top, right, bottom, and/or left properties will cause it to be adjusted away from its normal position. Other content will not be adjusted.
+
+Example:
+
+```css
+div {
+  position: relative;
+  top: 30px;
+}
+```
+
+## fixed
+
+Element is positioned relative to the viewport, meaning it always stays in the same place even if the page is scrolled. The top, right, bottom, left properties are used to position the element.
+
+Example:
+
+```css
+div {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
+/* Positions an element at the bottom right corner of the page. */
+```
+
+## absolute
