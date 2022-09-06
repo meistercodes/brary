@@ -21,3 +21,4 @@ Collection of knowledge in small chunks for reference.
 - [Logical Operators](./javascript/logicaloperators.md)
 - [Switch Statement](./javascript/switchstatement.md)
 - [Ternary Operator](./javascript/ternaryoperator.md)
+- [Array Methods](./javascript/arraymethods.md)
