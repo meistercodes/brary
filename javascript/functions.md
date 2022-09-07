@@ -9,3 +9,9 @@ function functionName() {
 ```
 
 ## Function Expression
+
+```js
+const functionName = function () {
+  // function body
+};
+```
