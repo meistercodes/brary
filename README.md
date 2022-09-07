@@ -22,3 +22,4 @@ Collection of knowledge in small chunks for reference.
 - [Switch Statement](./javascript/switchstatement.md)
 - [Ternary Operator](./javascript/ternaryoperator.md)
 - [Array Methods](./javascript/arraymethods.md)
+- [Functions](./javascript/functions.md)
