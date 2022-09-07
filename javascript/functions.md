@@ -15,3 +15,11 @@ const functionName = function () {
   // function body
 };
 ```
+
+## Arrow Function
+
+```js
+const functionName = () => {
+  // function body
+};
+```
