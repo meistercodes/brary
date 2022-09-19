@@ -1,3 +1,1 @@
 # Bang '!'
-
-## The '!' Operator
