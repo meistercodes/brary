@@ -1,4 +1,4 @@
-# Setting up a React Project
+# Setting up a React Project (CLI)
 
 ## Create React App (CRA)
 
@@ -10,4 +10,10 @@
 
 ```js
   npm create vite@latest
+```
+
+Start Dev Server
+
+```js
+  npm start
 ```
