@@ -23,3 +23,7 @@ Collection of knowledge in small chunks for reference.
 - [Ternary Operator](./javascript/ternaryoperator.md)
 - [Array Methods](./javascript/arraymethods.md)
 - [Functions](./javascript/functions.md)
+
+#### React
+
+- [Set Up](./react/setup.md)
