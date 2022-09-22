@@ -15,5 +15,5 @@
 Start Dev Server
 
 ```js
-  npm start
+  npm run dev
 ```
