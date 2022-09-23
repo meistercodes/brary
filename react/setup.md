@@ -6,7 +6,7 @@
   npx create-react-app
 ```
 
-## Vite
+## Vite (Recommended)
 
 ```js
   npm create vite@latest // follow prompts
