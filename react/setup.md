@@ -10,6 +10,7 @@
 
 ```js
   npm create vite@latest
+  npm install
 ```
 
 Start Dev Server
