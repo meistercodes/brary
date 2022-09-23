@@ -9,7 +9,7 @@
 ## Vite
 
 ```js
-  npm create vite@latest // (follow prompts)
+  npm create vite@latest // follow prompts
   npm install
 ```
 
