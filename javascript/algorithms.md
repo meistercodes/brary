@@ -27,7 +27,7 @@ function reverseString(string) {
 
 ## removeFromArray
 
-Create a function that removes an item from an array. _use rest syntax_
+Create a function that removes an item from an array. NOTE: use rest syntax!
 
 ```js
 const removeFromArray = function (...args) {
