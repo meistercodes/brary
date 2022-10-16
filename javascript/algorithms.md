@@ -24,3 +24,20 @@ function reverseString(string) {
   return string.split('').reverse().join('');
 }
 ```
+
+## removeFromArray
+
+Create a function that removes an item from an array. _use rest syntax_
+
+```js
+const removeFromArray = function (...args) {
+  const array = args[0];
+  const newArray = [];
+  array.forEach((item) => {
+    if (!args.includes(item)) {
+      newArray.push(item);
+    }
+  });
+  return newArray;
+};
+```
