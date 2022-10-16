@@ -14,3 +14,13 @@ function repeatString(word, times) {
   return string;
 }
 ```
+
+## reverseString
+
+Create a function that takes in an argument (string) and reverses it.
+
+```js
+function reverseString(string) {
+  return string.split('').reverse().join('');
+}
+```
